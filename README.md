@@ -1,3 +1,8 @@
-# Introduction
+# README
 
-# parthenos
+## Introduction
+
+## parthenos
+
+### Manual editing in gitbook .io works like this
+
