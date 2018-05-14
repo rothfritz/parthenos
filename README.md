@@ -1,18 +1,18 @@
 # README
 
-
-# partheno
-
-
-##Test update in bsch shell to parthenos hub in git and gitbook
-
-
-
-## Introduction
+## README
 
 ## parthenos
 
-### Manual editing in gitbook .io works like this
+### Test update in bsch shell to parthenos hub in git and gitbook
 
-Issue 1 test test test lorem ipsum 
+### Introduction
+
+### parthenos
+
+#### Manual editing in gitbook .io works like this
+
+Issue 1 test test test lorem ipsum
+
+
 
